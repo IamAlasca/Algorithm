@@ -4,5 +4,7 @@
         <page name='stack'/>
         <page name='InitialOnes'/>
         <page name='LinkedList'/>
+        <page name='19'/>
+        <page name='21'/>
     </pages>
 </playground>
