@@ -1,4 +1,4 @@
-/// Using an array to create an min or map heap data structure, and that's why it's important for the heap to be a compact tree.
+/// Using an array to create an "min or map heap" data structure, and that's why it's important for the heap to be a compact tree.
 struct Heap<Element> {
     var elements : [Element]
     let priorityFunction : (Element, Element) -> Bool
